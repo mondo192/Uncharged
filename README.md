@@ -1,6 +1,6 @@
 # UNCHARGED
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/Kp8X6RUTuqw/0.jpg)](http://www.youtube.com/watch?v=Kp8X6RUTuqw "Uncharged Trailer")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/FTRWUzv95Wg/0.jpg)](http://www.youtube.com/watch?v=FTRWUzv95Wg"Uncharged Trailer")
 
 # # IMPORTANT NOTES
 Use the dev branch as the main branch for development.
