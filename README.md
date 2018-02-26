@@ -1,5 +1,5 @@
 ## UNCHARGED
-[!(https://img.youtube.com/vi/Kp8X6RUTuqw/0.jpg)](https://www.youtube.com/watch?v=Kp8X6RUTuqw)
+[!(https://img.youtube.com/vi/Kp8X6RUTuqw/0.jpg)](https://www.youtube.com/watch?v=Kp8X6RUTuqw "Uncharged")
 
 # # IMPORTANT NOTES
 Use the dev branch as the main branch for development.
