@@ -1,5 +1,5 @@
-## UNCHARGED
-# Video
+# UNCHARGED
+
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/Kp8X6RUTuqw/0.jpg)](http://www.youtube.com/watch?v=Kp8X6RUTuqw "Uncharged Trailer")
 
 # # IMPORTANT NOTES
