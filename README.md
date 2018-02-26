@@ -1,6 +1,7 @@
 ## UNCHARGED
-[![IMAGE_ALT_TEXT](https://img.youtube.com/vi/Kp8X6RUTuqw/0.jpg)](https://www.youtube.com/watch?v=Kp8X6RUTuqw "Uncharged")
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Kp8X6RUTuqw
+" target="_blank"><img src="http://img.youtube.com/vi/Kp8X6RUTuqw/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 # # IMPORTANT NOTES
 Use the dev branch as the main branch for development.
 Don't force push any files.
