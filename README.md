@@ -23,4 +23,5 @@ My primary role was the creation, synthesis and implementation of all the audio 
 ### Povilas' project contribution:
 I implemented the Player/Enemy Health and shooting mechanics. I also created the walking animations of the Player. Created an Pyramids in Blener then animated in Unity. Made the tress. Worked on general bug fixes. 
 
-Enda's project contribution:
+### Enda's project contribution:
+I designed the mechanics and the looks of the game. I also designed and created the player and tier 1 enemy rig (humanoid automaton). I also helped to design the tier 2 enemy rig (mechanised spider). My other main job was creating and implementing the UI, it's scripts and it's sprites along with the poster for games fleadh. I also assisted in the design and implementation of the energy pickup, and with general bug fixes.
