@@ -17,7 +17,7 @@ For the assignment we used unity to store and collaborate our project in real ti
 ### Michael's project contribution:
 I implemented and worked on a number of features such as the spawning of enemies, vision range and balance to shooting bullets and bug fixing errors. I also created a number of assets in blender and worked on the animations for the enemies and a number of interactions. I also built and designed the level and lightning particle effects.
 
-### Eamonns's project contribution:
+### Eamonn's project contribution:
 My primary role was the creation, synthesis and implementation of all the audio elements within this unity project. I created the models for the lightbulb, spider and battery and then the prefabs for them in unity. I carried out various bug tests and reports. 
 
 ### Povilas' project contribution:
