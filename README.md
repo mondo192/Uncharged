@@ -20,8 +20,7 @@ I implemented and worked on a number of features such as the spawning of enemies
 ### Eamonns's project contribution:
 My primary role was the creation, synthesis and implementation of all the audio elements within this unity project. I created the models for the lightbulb, spider and battery and then the prefabs for them in unity. I carried out various bug tests and reports. 
 
-Povilases project contribution:
-
-ESSKEETIT
+### Povilases project contribution:
+I implemented the Player/Enemy Health and shooting mechanics. I also created the walking animations of the Player. Created an Pyramids in Blener then animated in Unity. Made the tress. Worked on general bug fixes. 
 
 Enda's project contribution:
