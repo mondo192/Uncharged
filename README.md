@@ -5,7 +5,7 @@
 Documentation: https://docs.google.com/document/d/1zRl_mGBDtZ-GOtyArpHRK_8Y44M0naO97iym5veGXbQ/edit?usp=sharing
 
 ## Team and project name: 
-## Uncharged
+Uncharged
 ## Team members:
 1. Michael Lenghel
 2. Eamonn Keough
